@@ -1,2 +1,3 @@
 ---
-# defaults file for ansible-role-ubuntu-harden
+
+admin_email: root@localhost
